@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vincenzodonnarumma22@gmail.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vincenzo2202.vincenzo2202)](https://github.com/vincenzo2202)
 
-### Soy desarrollador Junior en progresos!
+### Soy desarrollador Junior en progreso!
 
 <!-- gif Image -->
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
