@@ -10,15 +10,17 @@
 <!-- gif Image -->
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-#### 💼  Cosas en las que estoy trabajando actualmente: 
-* Mejorar los conocimietos en SQL.
-* Organizar mejor mis documentos y repositorios.
-* Aumentar la cantidad de proyectos que tengo en mi portafolio.
-#### 🌱 Retos con los que estoy actualmente:
-* Mejorar mis conocimientos en codigo estudiando 4-6 horas diarias. 
-* Leer articulos 📰 relacionados al area de trabajo en las que me quiero desempeñar.  
-* Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
-* Adaptarme a un estilo de vida saludable.
+💼 Cosas en las que estoy trabajando actualmente:
+
+Mejorar los conocimientos en SQL.
+Organizar mejor mis documentos y repositorios.
+Aumentar la cantidad de proyectos que tengo en mi portafolio.
+🌱 Retos con los que estoy actualmente:
+
+Mejorar mis conocimientos en código estudiando de 8 a 10 horas diarias.
+Leer artículos 📰 relacionados al área de trabajo en la que quiero desempeñarme.
+Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
+Adaptarme a un estilo de vida saludable.
 
 #### 💻 Herramientas que utilizo: 
 <p>  
