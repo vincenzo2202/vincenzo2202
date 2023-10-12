@@ -26,6 +26,7 @@
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
   <code><img width="5%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
   <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"></code>
+   <code><img width="5%" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png)"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="6%" src="https://www.svgrepo.com/show/35001/github.svg"></code> 
