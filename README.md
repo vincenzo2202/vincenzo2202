@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vincenzodonnarumma22@gmail.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vincenzo2202.vincenzo2202)](https://github.com/vincenzo2202)
 
-### Soy desarrollador Junior en progreso!
+### Soy desarrollador Junior!
 
 <!-- gif Image -->
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
@@ -15,7 +15,7 @@
 * Organizar mejor mis documentos y repositorios.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
 #### 🌱 Retos con los que estoy actualmente:
-* Mejorar mis conocimientos en codigo estudiando 8-10 horas diarias. 
+* Mejorar mis conocimientos en codigo estudiando 4-6 horas diarias. 
 * Leer articulos 📰 relacionados al area de trabajo en las que me quiero desempeñar.  
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
 * Adaptarme a un estilo de vida saludable.
