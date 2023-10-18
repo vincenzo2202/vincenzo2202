@@ -33,6 +33,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/35001/github.svg"></code> 
+   <code><img width="13%" src="https://upload.wikimedia.org/wikipedia/vi/a/a7/Nodejs_logo_light.png"></code> 
   </p>
 
 #### 🏆 Estadísticas de Github:
