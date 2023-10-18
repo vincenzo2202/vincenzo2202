@@ -34,7 +34,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/35001/github.svg"></code> 
    <code><img width="13%" src="https://upload.wikimedia.org/wikipedia/vi/a/a7/Nodejs_logo_light.png"></code> 
-  <code><img width="7%" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
+  <code><img width="7%" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg"></code>
   </p>
 
 #### 🏆 Estadísticas de Github:
