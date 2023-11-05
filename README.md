@@ -37,6 +37,7 @@
   <code><img width="5%" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg"></code>
    <code><img width="17%" src= "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/></code> 
   <code><img width="11%" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/></code>
+  <code><img width="17%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
   </p>
 
 #### 🏆 Estadísticas de Github:
