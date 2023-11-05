@@ -35,7 +35,7 @@
     <code><img width="5%" src="https://www.svgrepo.com/show/35001/github.svg"></code> 
    <code><img width="13%" src="https://upload.wikimedia.org/wikipedia/vi/a/a7/Nodejs_logo_light.png"></code> 
   <code><img width="5%" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg"></code>
-   <code><img width="10%" src= "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/></code> 
+   <code><img width="20%" src= "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/></code> 
   <code><img width="10%" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/></code>
   </p>
 
