@@ -15,9 +15,10 @@
 * Mejorar los conocimientos en SQL.
 * Organizar mejor mis documentos y repositorios.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
+* Ampliar mis conocimientos de React.
 
 #### 🌱 Retos con los que estoy actualmente:
-* Mejorar mis conocimientos en código estudiando 8-10 horas diarias.
+* Mejorar mis conocimientos en código estudiando 6-8 horas diarias.
 * Leer artículos 📰 relacionados al área de trabajo en la que me quiero desempeñar.
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
 * Adaptarme a un estilo de vida saludable.
@@ -37,7 +38,10 @@
   <code><img width="5%" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg"></code>
    <code><img width="17%" src= "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/></code> 
   <code><img width="11%" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/></code>
-  <code><img width="17%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
+  <code><img width="17%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code> 
+  <code><img width="7%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJd09nbs-FMm0CO_8S31bN5HswUV2Tc5wvA&usqp=CAU"></code>
+  <code><img width="11%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHRR7WD7dsTO-WjMevpojc9ZQxn4TEdl5dA&usqp=CAU"></code>
+  <code><img width="11%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code> 
   </p>
 
 #### 🏆 Estadísticas de Github:
