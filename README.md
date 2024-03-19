@@ -41,8 +41,8 @@
   <code><img width="17%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code> 
   <code><img width="7%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJd09nbs-FMm0CO_8S31bN5HswUV2Tc5wvA&usqp=CAU"></code>
   <code><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHRR7WD7dsTO-WjMevpojc9ZQxn4TEdl5dA&usqp=CAU"></code>
-  <code><img width="11%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>   
   <code><img width="5%" src="https://www.svgviewer.dev/static-svgs/476516/symfony.svg"></code>  
+  <code><img width="11%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>   
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/></code>  
   </p>
 
