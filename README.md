@@ -52,4 +52,8 @@
 <img align="right" alt="vincenzo2202's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo2202&hide_border=true&layout=compact&theme=nord" width="45%"/>
 </p>
 
+#### 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vincenzo2202)](https://github.com/vincenzo2202/github-profile-trophy)
+
  
