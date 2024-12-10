@@ -15,14 +15,13 @@
 * Mejorar los conocimientos en SQL.
 * Organizar mejor mis documentos y repositorios.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
-* Ampliar mis conocimientos de React.
+* Ampliar mis conocimientos de Angular y React.
 
 #### 🌱 Retos con los que estoy actualmente:
-* Mejorar mis conocimientos en código estudiando 6-8 horas diarias.
+* Mejorar mis conocimientos en código estudiando 3-4 horas diarias.
 * Leer artículos 📰 relacionados al área de trabajo en la que me quiero desempeñar.
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
 * Adaptarme a un estilo de vida saludable.
-
 
 #### 💻 Herramientas que utilizo: 
 <p>  
