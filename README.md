@@ -11,11 +11,11 @@
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" margin />
 
 
-#### 💼 Cosas en las que estoy trabajando actualmente:
-* Mejorar los conocimientos en SQL.
+#### 💼 Cosas en las que estoy trabajando actualmente: 
 * Organizar mejor mis documentos y repositorios.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
-* Ampliar mis conocimientos de Angular y React.
+* Profundizar en el clean-code
+* Ampliar mis conocimientos de Angular y Spring Boot.
 
 #### 🌱 Retos con los que estoy actualmente:
 * Mejorar mis conocimientos en código estudiando 3-4 horas diarias.
